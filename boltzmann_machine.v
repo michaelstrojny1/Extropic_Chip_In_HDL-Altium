@@ -1,3 +1,10 @@
+
+
+// just a normal boltzmmann machine. Not the one used in the Extropic chip. Done for practice.
+
+
+
+
 `timescale 1ns/1ps
 
 // Sigmoid is analog. See altium files for CMOS implementation of Sigmoid
