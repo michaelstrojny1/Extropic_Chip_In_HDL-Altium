@@ -1,6 +1,6 @@
 **Summary**
 
-This repository is work in progress. We attempt to implement of Extropic's Stoichastic Processing Unit in Verilog and build a 16 bit model in Altium. Our architecture follows Extropic's Paper, "An efficient probabilistic hardware architecture for diffusion-like models" by Andraž Jelinčič et al (https://arxiv.org/pdf/2510.23972) [1].
+This repository is work in progress. We attempt to build a simple version of Extropic's Stoichastic Processing Unit in Verilog and build a 16 bit version in Altium. Our architecture follows Extropic's Paper, "An efficient probabilistic hardware architecture for diffusion-like models" by Andraž Jelinčič et al (https://arxiv.org/pdf/2510.23972) [1].
 
 **Very high level overview of our proposed implementation (Top --> Bottom modules)**
 
